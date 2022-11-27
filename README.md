@@ -16,11 +16,8 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 ## 📌 Sneak Peek of Main Page:
 ![mockup720](./assests/images/<img width="960" alt="MVM" src="https://user-images.githubusercontent.com/116005763/204126753-f5e2dca1-322e-4155-b9ae-d617f086403f.png">
-.png)
 ![skillsmockup](./assests/images/<img width="960" alt="skills" src="https://user-images.githubusercontent.com/116005763/204126774-b8e1cf7c-c586-41d6-9224-b7bcf64ad483.png">
-.png)
 ![Certifications](./assests/images/<img width="960" alt="certifications" src="https://user-images.githubusercontent.com/116005763/204126783-b89263e6-753e-457b-ad80-866c6ab14e40.png">
-.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcpproject121&label=Profile%20views&color=0e75b6&style=flat" alt="gcpproject121" /> </p>
 

@@ -15,9 +15,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 ## 📌 Sneak Peek of Main Page:
-![mockup720](./assests/images/<img width="960" alt="MVM" src="https://user-images.githubusercontent.com/116005763/204126753-f5e2dca1-322e-4155-b9ae-d617f086403f.png">
-![skillsmockup](./assests/images/<img width="960" alt="skills" src="https://user-images.githubusercontent.com/116005763/204126774-b8e1cf7c-c586-41d6-9224-b7bcf64ad483.png">
-![Certifications](./assests/images/<img width="960" alt="certifications" src="https://user-images.githubusercontent.com/116005763/204126783-b89263e6-753e-457b-ad80-866c6ab14e40.png">
+![mockup720]        <img width="960" alt="MVM" src="https://user-images.githubusercontent.com/116005763/204126753-f5e2dca1-322e-4155-b9ae-d617f086403f.png">
+![skillsmockup]     <img width="960" alt="skills" src="https://user-images.githubusercontent.com/116005763/204126774-b8e1cf7c-c586-41d6-9224-b7bcf64ad483.png">
+![Certifications]   <img width="960" alt="certifications" src="https://user-images.githubusercontent.com/116005763/204126783-b89263e6-753e-457b-ad80-866c6ab14e40.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gcpproject121&label=Profile%20views&color=0e75b6&style=flat" alt="gcpproject121" /> </p>
 
@@ -49,10 +49,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 <p align="left">
 <a href="https://twitter.com/vanamalimatha32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanamalimatha32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vanamali-matha-811035232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanamali-matha-811035232/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vanamalirockzz.vanamaliroyals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vanamalirockzz.vanamaliroyals" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/invites/contact/?i=9k3uqrdzbujw&utm_content=lulju0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?i=9k3uqrdzbujw&utm_content=lulju0d" height="30" width="40" /></a>
 <a href="https://medium.com/@mathavanamali121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mathavanamali121" height="30" width="40" /></a>
 <a href="https://discord.gg/Vanamali matha #5857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vanamali matha #5857" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,8 +66,10 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcpproject121&" alt="gcpproject121" /></p>
 
-<a  href="https://github.com/GCPProject121" target="_blank"><img alt="LinkdIn" src="![image](https://user-images.githubusercontent.com/116005763/204126954-d435d008-27e9-4c0a-bbeb-12349c706399.png)" /></a>
-<a  href="https://www.linkedin.com/in/vanamali-matha-811035232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="twitter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="Medium" target="_blank"><img alt="Medium" src="![image](https://user-images.githubusercontent.com/116005763/204127014-2384b80d-4f9f-41e1-931a-982390acb140.png)" /></a>  
-<a href="mailto:mathavanamali121@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vanamalimatha32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanamalimatha32" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vanamali-matha-811035232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanamali-matha-811035232/" height="30" width="40" /></a>
+<a href="https://medium.com/@mathavanamali121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mathavanamali121" height="30" width="40" /></a>
+<a href="https://discord.gg/Vanamali matha #5857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vanamali matha #5857" height="30" width="40" /></a>
+</p>

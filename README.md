@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanamali</h1>
 <h3 align="center">Cloud Infrastructure Delivery Manager – Cloud Enthusiast - ☁️| GCP | AZURE | AWS Certified</h3>
 
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+<h1> Portfolio website build using HTML5, CSS3, JavaScript and jQuery. </h1>
 
 <h2> Website: 
 <a href="https://vanamali.netlify.app/" target="_blank">Visit Now🚀</a>

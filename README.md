@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanamali</h1>
-<h3 align="center">Cloud Infrastructure Delivery Manager – Cloud Enthusiast - ☁️| GCP | AZURE | AWS Certified</h3>
+<h2 align="center">Cloud Infrastructure Delivery Manager – Cloud Enthusiast - ☁️| GCP | AZURE | AWS Certified</h2>
 
-<h1> Portfolio website build using HTML5, CSS3, JavaScript and jQuery. </h1>
+Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
 <a href="https://vanamali.netlify.app/" target="_blank">Visit Now🚀</a>
@@ -25,19 +25,21 @@
 
 <p align="left"> <a href="https://twitter.com/vanamalimatha32" target="blank"><img src="https://img.shields.io/twitter/follow/vanamalimatha32?logo=twitter&style=for-the-badge" alt="vanamalimatha32" /></a> </p>
 
-- 🔭 I’m currently working on **Decommissions**
+- 🔭 I’m currently working on **Decommissions & Cloud Migration Projects**
 
-- 🌱 I’m currently learning **Cloud Certifications**
+- 🌱 I’m currently learning **Cloud Certifications like GCP , AZURE & AWS**
 
-- 👯 I’m looking to collaborate on **Cloud**
+- 👯 I’m looking to collaborate & Work on **Cloud**
 
-- 🤝 I’m looking for help with **Cloud Migrations**
+- 🤝 I’m looking for help with **Cloud Ceretifications**
 
-- 👨‍💻 All of my projects are available at [https://vanamali.netlify.app/](https://vanamali.netlify.app/)
+- 👨‍💻 All of my projects are available at **[https://vanamali.netlify.app/](https://vanamali.netlify.app/)**
 
-- 📝 I regularly write articles on [https://vanamali.bio.link/](https://vanamali.bio.link/)
+- 📝 I regularly write articles on 
+                         - **[https://vanamali.bio.link/](https://vanamali.bio.link/)**
+                         - **https://medium.com/@mathavanamali121**
 
-- 📫 How to reach me **https://www.linkedin.com/in/vanamali-matha-811035232/**
+- 📫 How to reach me **https://www.linkedin.com/in/vanamali-matha-811035232/** & **https://medium.com/@mathavanamali121/**
 
 - 📄 Know about my experiences [https://vanamali.netlify.app/assests/Vanamali%20Resume%20MVM%202022.pdf](https://vanamali.netlify.app/assests/Vanamali%20Resume%20MVM%202022.pdf)
 

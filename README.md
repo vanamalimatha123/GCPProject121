@@ -6,7 +6,7 @@
   😄 Pronouns: He/Him
 <h2 align="center">Cloud Infrastructure Delivery Manager – Cloud Enthusiast - ☁️| GCP | AZURE | AWS Certified</h2>
 
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+Portfolio websites build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
 <a href="https://vanamali.netlify.app/" target="_blank">Visit Now🚀</a>
@@ -28,7 +28,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gcpproject121" alt="gcpproject121" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vanamalimatha32" target="blank"><img src="https://img.shields.io/twitter/follow/vanamalimatha32?logo=twitter&style=for-the-badge" alt="vanamalimatha32" /></a> </p>
+
 
 - 🔭 I’m currently working on **Decommissions & Cloud Migration Projects**
 
@@ -54,7 +54,6 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vanamalimatha32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanamalimatha32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vanamali-matha-811035232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanamali-matha-811035232/" height="30" width="40" /></a>
 <a href="https://medium.com/@mathavanamali121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mathavanamali121" height="30" width="40" /></a>
 <a href="https://discord.gg/Vanamali matha #5857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vanamali matha #5857" height="30" width="40" /></a>
@@ -75,7 +74,6 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vanamalimatha32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanamalimatha32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vanamali-matha-811035232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanamali-matha-811035232/" height="30" width="40" /></a>
 <a href="https://medium.com/@mathavanamali121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mathavanamali121" height="30" width="40" /></a>
 <a href="https://discord.gg/Vanamali matha #5857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vanamali matha #5857" height="30" width="40" /></a>

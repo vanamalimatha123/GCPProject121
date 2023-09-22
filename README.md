@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vanamali</h1>
+<h1 align="center">Hi 👋, I'm Vanamali
+  🔭 I’m currently working on IT Infrastructure Delivery Manager at DXC Technology
+🌱 I’m currently learning Cloud Technologies
+👯 I’m looking to collaborate on New technologies
+💬 Ask me about anything
+📫 How to reach me: https://www.linkedin.com/in/%F0%9F%92%ABvanamali-matha-%F0%9F%92%AB-811035232/
+  😄 Pronouns: He/Him
+⚡ Fun fact: Addict to coffee and listening music
+</h1>
 <h2 align="center">Cloud Infrastructure Delivery Manager – Cloud Enthusiast - ☁️| GCP | AZURE | AWS Certified</h2>
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.

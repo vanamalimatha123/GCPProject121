@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanamali </h1>
+
   🔭 I’m currently working on Analyst III Infrastructure Services @ DXC Technology🌟| AWS CB Member 🏆| Content Creator 📺| Multi Cloud Certified (8xGCP,2xAWS & 5xAZURE )📃|100+ Microsoft Badges🥇| 150+ Qwiklabs Badges🥇| Crowdsource Open Contributor 🎯
+
   
 🌱 I’m currently learning Cloud Technologies
 

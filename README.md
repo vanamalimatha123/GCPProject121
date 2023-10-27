@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vanamali </h1>
   🔭 I’m currently working on Analyst III Infrastructure Services @ DXC Technology🌟| AWS CB Member 🏆| Content Creator 📺| Multi Cloud Certified (8xGCP,2xAWS & 5xAZURE )📃|100+ Microsoft Badges🥇| 150+ Qwiklabs Badges🥇| Crowdsource Open Contributor 🎯
+  
 🌱 I’m currently learning Cloud Technologies
+
 👯 I’m looking to collaborate on New technologies
+
 💬 Ask me about anything
+
   😄 Pronouns: He/Him
+  
 <h2 align="center">Cloud Infrastructure Delivery Manager – Cloud Enthusiast - ☁️| GCP | AZURE | AWS Certified</h2>
 
-Portfolio websites build using HTML5, CSS3, JavaScript and jQuery.
+Portfolio websites are built using HTML5, CSS3, JavaScript, and jQuery.
 
 <h2> Website: 
 <a href="https://vanamali.netlify.app/" target="_blank">Visit Now🚀</a>
@@ -34,9 +39,9 @@ Portfolio websites build using HTML5, CSS3, JavaScript and jQuery.
 
 - 🌱 I’m currently learning **Cloud Certifications like GCP , AZURE & AWS**
 
-- 👯 I’m looking to collaborate & Work on **Cloud**
+- 👯 I’m looking to collaborate and Work on the cloud.
 
-- 🤝 I’m looking for help with **Cloud Ceretifications**
+- 🤝 I’m looking for help with cloud certifications.
 
 - 👨‍💻 All of my projects are available at **[https://vanamali.netlify.app/](https://vanamali.netlify.app/)**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanamali </h1>
-  🔭 I’m currently working on Analyst III Infrastructure Services @ DXC Technology🌟| AWS CB Member 🏆| Content Creator 📺| Multi Cloud Certified (8xGCP,2xAWS & 5xAZURE )📃|100+ Microsoft Badges🥇| 150+ Qwiklabs Badges🥇| Crowdsource Open Contributor 🎯![image](https://github.com/GCPProject121/GCPProject121/assets/116005763/de8552fb-97a4-4bc7-bc07-9aa2ba9c2e15)
+  🔭 I’m currently working on Analyst III Infrastructure Services @ DXC Technology🌟| AWS CB Member 🏆| Content Creator 📺| Multi Cloud Certified (8xGCP,2xAWS & 5xAZURE )📃|100+ Microsoft Badges🥇| 150+ Qwiklabs Badges🥇| Crowdsource Open Contributor 🎯
 🌱 I’m currently learning Cloud Technologies
 👯 I’m looking to collaborate on New technologies
 💬 Ask me about anything
